@@ -1,0 +1,17 @@
+.header__navbar {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgba(95,158,160,0.5) !important;
+}
+.header__navbar__brand {
+    color:indigo !important;
+    font-size: 20px;
+}
+.header__navbar__menu__item  {
+    color:darkblue;
+}
+.header__logo {
+    width: 25px;
+}
+.header__navbar__container {
+    text-align: left;
+}

@@ -1,0 +1,9 @@
+.photo-section {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:darkslategrey; 
+    text-align: center;
+    padding: 20px;
+}
+.photo-section__photos {
+    padding: 20px;
+}
